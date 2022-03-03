@@ -32,3 +32,5 @@ Click show preview to ensure your camera is focused on the subject
 Click Take Snapshot to take a single still image 
 
 If video is checked BAIR will automatically create a timelapse video using the images it takes at the end of the total time; the longer the total time the longer it will take to create the video (note: do not close the BAIR gui while the video is processing or it will corrupt the video file) 
+
+Click Start to begin your timelapse! 
